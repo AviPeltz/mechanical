@@ -1,2 +1,10 @@
-# mechanical
-mechanical engineering thoughts
+# A Place for Mechanical Engineering thoughts and notes
+
+
+- Statics
+
+
+
+
+
+
